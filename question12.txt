@@ -1,0 +1,4 @@
+Add another 1-2 empty non-public classes in the file. Now, compile and run the program. How many .class files are created.
+Points to ponder: Does one .java file when compiled always result in the generation of one .class file.
+if we add another 1-2 empty non public class in the file and if we run it then the .class file of every class is generated. one .java file when compiled results in generation of 
+n .class files if there are n classes declared in that file.

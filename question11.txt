@@ -1,0 +1,5 @@
+.Keep the classname different than the filename. Then, remove the ‘public’ before the class name and compile and run the program. What happens?
+Points to ponder: When does the class name have to be the same as the filename.
+
+ans)After removing the public acces specifier from the class.the programme runs even if the name of class and file name is different.
+The class name has to be same as Filename if it has been declared as public. 

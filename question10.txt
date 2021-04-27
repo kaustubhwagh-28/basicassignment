@@ -1,0 +1,3 @@
+. In the Hello world program, make your class public and execute the program. Then change the name of the class (without changing the file name). What happens?
+I changed my public class name without canging the filename.the compiler showed me an error saying that the public type class should be declared in its own file
+the filename must have the same name as the public class name in the file,which is the way to tell the JVM that this is an entry point.
